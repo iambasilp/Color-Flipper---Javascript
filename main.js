@@ -20,3 +20,19 @@ button.addEventListener("click", (e) => {
     document.body.style.backgroundColor = `${RandomColor}`;
     colorText.innerText = `${RandomColor}`
 });
+
+
+// how event works actually
+    // event campturing
+    // event triggering
+    // event bubbling
+    // stop propocation
+    // event delegation
+// how javascript callback function work
+    // thread of excuetion
+    // asynchrnous function
+    // synchronous funciton
+// how javascript arrow function works
+    // allows to create funciton expression 
+    // this keyword not bound to the function
+    // IIFE
